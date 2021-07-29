@@ -1,3 +1,13 @@
+---
+layout: post
+title: 睡前小故事-
+date: 2021-7-25
+categories: blog
+tags: [睡前小故事]
+description: 好梦，琳红。
+---
+
+
 # 睡前小故事
 
 这里记下一些给琳红的，出处五花八门，就不一一引用啦：
